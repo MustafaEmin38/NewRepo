@@ -41,7 +41,7 @@ public class C06_Arrays {
                 System.out.print(each+" ");
             }
         }
-
+//bunu yeni yazıyorum..
 
 
 
